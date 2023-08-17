@@ -1,8 +1,8 @@
 {
-    "name": "accessci/openid_connect_accessci_client",
-    "description": "OpenID Connect ACCESS CI Client",
+    "name": "accessci/openid_connect_researchci_client",
+    "description": "OpenID Connect Research CI Client",
     "type": "drupal-custom-module",
-    "homepage": "https://https://github.com/access-ci-org/openid_connect_accessci_client",
+    "homepage": "https://https://github.com/access-ci-org/openid_connect_researchci_client",
     "require": {
         "drupal/openid_connect": "^3.0"
     },
@@ -15,7 +15,7 @@
     "repositories": [
         {
                 "type": "vcs",
-                "url": "https://github.com/access-ci-org/openid_connect_accessci_client"
+                "url": "https://github.com/access-ci-org/openid_connect_researchci_client"
         }
     ],
     "authors": [
